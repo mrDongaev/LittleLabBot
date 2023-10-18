@@ -1,2 +1,2 @@
 # LittleLabBot
-A small bot for submitting applications and various processing by conditional laboratory employees.
+Created as part of the Otus course, C# basic, bot in development.
